@@ -1,0 +1,240 @@
+0  0  max value is  330   
+0.430303  142  max value is  330   
+0.433333  143  max value is  330   
+0.0272727  9  max value is  330   
+0.439394  145  max value is  330   
+0.442424  146  max value is  330   
+0.445455  147  max value is  330   
+0.448485  148  max value is  330   
+0  0  max value is  330   
+0.00606061  2  max value is  330   
+
+
+0.00909091  3  max value is  330   
+0  0  max value is  330   
+0.490909  162  max value is  330   
+0.493939  163  max value is  330   
+0.0484848  16  max value is  330   
+0.5  165  max value is  330   
+0.50303  166  max value is  330   
+0.506061  167  max value is  330   
+0.509091  168  max value is  330   
+0.512121  169  max value is  330   
+
+
+0.515152  170  max value is  330   
+0.518182  171  max value is  330   
+0.521212  172  max value is  330   
+0.524242  173  max value is  330   
+0.527273  174  max value is  330   
+0.530303  175  max value is  330   
+0.533333  176  max value is  330   
+0.536364  177  max value is  330   
+0.539394  178  max value is  330   
+0.542424  179  max value is  330   
+
+
+0.545455  180  max value is  330   
+0  0  max value is  330   
+0  0  max value is  330   
+0.248485  82  max value is  330   
+0.251515  83  max value is  330   
+0.254545  84  max value is  330   
+0.0242424  8  max value is  330   
+0.260606  86  max value is  330   
+0.263636  87  max value is  330   
+0.266667  88  max value is  330   
+
+
+0.269697  89  max value is  330   
+0.272727  90  max value is  330   
+0.275758  91  max value is  330   
+0.278788  92  max value is  330   
+0.281818  93  max value is  330   
+0.284848  94  max value is  330   
+0.287879  95  max value is  330   
+0.290909  96  max value is  330   
+0.293939  97  max value is  330   
+0.29697  98  max value is  330   
+
+
+0.3  99  max value is  330   
+0.30303  100  max value is  330   
+0  0  max value is  330   
+0.506061  167  max value is  330   
+0.312121  103  max value is  330   
+0  0  max value is  330   
+0.318182  105  max value is  330   
+0.321212  106  max value is  330   
+0.324242  107  max value is  330   
+0.327273  108  max value is  330   
+
+
+0.606061  200  max value is  330   
+0.333333  110  max value is  330   
+0.336364  111  max value is  330   
+0.339394  112  max value is  330   
+0.342424  113  max value is  330   
+0.345455  114  max value is  330   
+0.348485  115  max value is  330   
+0.351515  116  max value is  330   
+0.354545  117  max value is  330   
+0.357576  118  max value is  330   
+
+
+0.360606  119  max value is  330   
+0.363636  120  max value is  330   
+0  0  max value is  330   
+0.069697  23  max value is  330   
+0.190909  63  max value is  330   
+0.193939  64  max value is  330   
+0.0181818  6  max value is  330   
+0.2  66  max value is  330   
+0.20303  67  max value is  330   
+0.206061  68  max value is  330   
+
+
+0.209091  69  max value is  330   
+0.212121  70  max value is  330   
+0.215152  71  max value is  330   
+0.218182  72  max value is  330   
+0.221212  73  max value is  330   
+0.224242  74  max value is  330   
+0.227273  75  max value is  330   
+0.230303  76  max value is  330   
+0.233333  77  max value is  330   
+0.236364  78  max value is  330   
+
+
+0.239394  79  max value is  330   
+0.242424  80  max value is  330   
+1  330  max value is  330   
+0.369697  122  max value is  330   
+0.372727  123  max value is  330   
+0.0121212  4  max value is  330   
+0.378788  125  max value is  330   
+0.381818  126  max value is  330   
+0.384848  127  max value is  330   
+0.387879  128  max value is  330   
+
+
+0.390909  129  max value is  330   
+0.393939  130  max value is  330   
+0.39697  131  max value is  330   
+0.4  132  max value is  330   
+0.40303  133  max value is  330   
+0.406061  134  max value is  330   
+0.409091  135  max value is  330   
+0.412121  136  max value is  330   
+0.415152  137  max value is  330   
+0.418182  138  max value is  330   
+
+
+0.421212  139  max value is  330   
+0.424242  140  max value is  330   
+0.0030303  1  max value is  330   
+0.127273  42  max value is  330   
+0.130303  43  max value is  330   
+0.133333  44  max value is  330   
+0.0121212  4  max value is  330   
+0.139394  46  max value is  330   
+0.142424  47  max value is  330   
+0.145455  48  max value is  330   
+
+
+0.148485  49  max value is  330   
+0.151515  50  max value is  330   
+0.154545  51  max value is  330   
+0.157576  52  max value is  330   
+0.160606  53  max value is  330   
+0.163636  54  max value is  330   
+0.166667  55  max value is  330   
+0.169697  56  max value is  330   
+0.172727  57  max value is  330   
+0.175758  58  max value is  330   
+
+
+0.178788  59  max value is  330   
+0.181818  60  max value is  330   
+0.0121212  4  max value is  330   
+0.0151515  5  max value is  330   
+0.0181818  6  max value is  330   
+0.0212121  7  max value is  330   
+0.0242424  8  max value is  330   
+0.0272727  9  max value is  330   
+0.030303  10  max value is  330   
+0.0333333  11  max value is  330   
+
+
+0.0363636  12  max value is  330   
+0.0393939  13  max value is  330   
+0.0424242  14  max value is  330   
+0.0454545  15  max value is  330   
+0.0484848  16  max value is  330   
+0.0515152  17  max value is  330   
+0.0545455  18  max value is  330   
+0.0575758  19  max value is  330   
+0.0606061  20  max value is  330   
+0.451515  149  max value is  330   
+
+
+0.454545  150  max value is  330   
+0.457576  151  max value is  330   
+0.460606  152  max value is  330   
+0.463636  153  max value is  330   
+0.466667  154  max value is  330   
+0.469697  155  max value is  330   
+0.472727  156  max value is  330   
+0.475758  157  max value is  330   
+0.478788  158  max value is  330   
+0.481818  159  max value is  330   
+
+
+0.484848  160  max value is  330   
+0  0  max value is  330   
+0.0363636  12  max value is  330   
+0.554545  183  max value is  330   
+0.0242424  8  max value is  330   
+0.560606  185  max value is  330   
+0.563636  186  max value is  330   
+0.566667  187  max value is  330   
+1  900  max value is  900   
+0.21  189  max value is  900   
+
+
+0.211111  190  max value is  900   
+0.212222  191  max value is  900   
+0.213333  192  max value is  900   
+0.214444  193  max value is  900   
+0.215556  194  max value is  900   
+0.216667  195  max value is  900   
+0.217778  196  max value is  900   
+0.218889  197  max value is  900   
+0.22  198  max value is  900   
+0.221111  199  max value is  900   
+
+
+0.222222  200  max value is  900   
+0.0244444  22  max value is  900   
+0.203333  183  max value is  900   
+0.0266667  24  max value is  900   
+0  0  max value is  900   
+0.0288889  26  max value is  900   
+0.03  27  max value is  900   
+0.0311111  28  max value is  900   
+0.0322222  29  max value is  900   
+0.0333333  30  max value is  900   
+
+
+0.0344444  31  max value is  900   
+0.0355556  32  max value is  900   
+0.0366667  33  max value is  900   
+0.0377778  34  max value is  900   
+0.0388889  35  max value is  900   
+0.04  36  max value is  900   
+0.0411111  37  max value is  900   
+0.0422222  38  max value is  900   
+0.0433333  39  max value is  900   
+0.0444444  40  max value is  900   
+
+
